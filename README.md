@@ -1,0 +1,29 @@
+# Pre-work - Tip Calculator
+
+Tip Calculator is a tip calculator application for iOS.
+
+Submitted by: Abhishek Nagpurkar
+
+Time spent: 2 hours spent in total
+
+## User Stories
+
+The following **required** functionality is complete:
+
+* [Y] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [Y] Settings page to change the default tip percentage.
+
+The following **optional** features are implemented:
+* [Y] Remembering the bill amount across app restarts (if <10mins)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+http://imgur.com/676o7aq
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+## License
+
